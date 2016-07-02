@@ -1,0 +1,6 @@
+C:\projects\קורס .net\8.2\MailSystem\MailSystem\bin\Debug\MailSystem.exe.config
+C:\projects\קורס .net\8.2\MailSystem\MailSystem\bin\Debug\MailSystem.exe
+C:\projects\קורס .net\8.2\MailSystem\MailSystem\bin\Debug\MailSystem.pdb
+C:\projects\קורס .net\8.2\MailSystem\MailSystem\obj\Debug\MailSystem.csprojResolveAssemblyReference.cache
+C:\projects\קורס .net\8.2\MailSystem\MailSystem\obj\Debug\MailSystem.exe
+C:\projects\קורס .net\8.2\MailSystem\MailSystem\obj\Debug\MailSystem.pdb
